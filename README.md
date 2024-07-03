@@ -7,3 +7,6 @@
 ## 20240703 台指選擇權「Put/Call Ratios」
 ![](images/pcratio.png)
 
+## 20240703 台指期「大額交易人」
+![](images/blocktrade.png)
+
